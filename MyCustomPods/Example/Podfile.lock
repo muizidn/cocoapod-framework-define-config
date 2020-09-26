@@ -1,0 +1,16 @@
+PODS:
+  - MyCustomPods (0.1.0)
+
+DEPENDENCIES:
+  - MyCustomPods (from `../`)
+
+EXTERNAL SOURCES:
+  MyCustomPods:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyCustomPods: efb600efec6208a074a6676b58aaaa24db72f18e
+
+PODFILE CHECKSUM: b24c6ea0c7ad76850258fb94f452cdd69bc284fe
+
+COCOAPODS: 1.9.3
